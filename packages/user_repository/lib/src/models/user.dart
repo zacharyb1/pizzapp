@@ -1,3 +1,5 @@
+import 'package:user_repository/src/entities/user_entity.dart';
+
 import '../entities/entities.dart';
 
 class MyUser {
